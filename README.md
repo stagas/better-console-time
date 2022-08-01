@@ -1,5 +1,5 @@
 <h1>
-better-console-time <a href="https://npmjs.org/package/better-console-time"><img src="https://img.shields.io/badge/npm-v0.0.1-F00.svg?colorA=000"/></a> <a href="src"><img src="https://img.shields.io/badge/loc-37-FFF.svg?colorA=000"/></a> <a href="https://cdn.jsdelivr.net/npm/better-console-time@0.0.1/dist/better-console-time.min.js"><img src="https://img.shields.io/badge/brotli-294b-333.svg?colorA=000"/></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-F0B.svg?colorA=000"/></a>
+better-console-time <a href="https://npmjs.org/package/better-console-time"><img src="https://img.shields.io/badge/npm-v1.0.0-F00.svg?colorA=000"/></a> <a href="src"><img src="https://img.shields.io/badge/loc-37-FFF.svg?colorA=000"/></a> <a href="https://cdn.jsdelivr.net/npm/better-console-time@1.0.0/dist/better-console-time.min.js"><img src="https://img.shields.io/badge/brotli-294b-333.svg?colorA=000"/></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-F0B.svg?colorA=000"/></a>
 </h1>
 
 <p></p>
